@@ -1,0 +1,13 @@
+# Compiled class files
+bin/
+*.class
+
+# Eclipse specific files
+.metadata/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+.recommenders
